@@ -1,4 +1,4 @@
-const robloxURL = "https://groups.roblox.com/v1/groups/1143446";
+const robloxURL = "https://www.roblox.com/communities/9343685/MY-Malaysia-Community";
 
 type DateMemberItem = [string, number, boolean?];
 
